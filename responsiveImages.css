@@ -1,0 +1,43 @@
+.allCards{
+    display: flex;
+    flex-flow: wrap row;
+    justify-content: center;
+      
+}
+
+.imgCard{
+    max-width: 450px;
+    max-height: 450px;
+    }
+
+h1{
+    display:flex;
+    justify-content: center;
+}
+h2{
+    display: flex;
+    justify-content: center;
+}
+
+body{
+    background-color:  rgb(255, 164, 148);
+}
+
+footer{
+    display:flex;
+    justify-content: center;
+    font-size: small;
+}
+p{
+    display:flex;
+    justify-content: center;
+}
+ main{
+    font-style: oblique;
+    font-weight: bolder;
+}
+
+header{
+    font-style: oblique;
+    font-weight: bold;
+}
